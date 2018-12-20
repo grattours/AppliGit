@@ -9,6 +9,6 @@
 import Foundation
 class hello {
     func saluer() {
-         print("hello")
+         print("hello IOS codeuses et codeurs")
     }
 }
